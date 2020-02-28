@@ -43,6 +43,14 @@ PRODUCT_PACKAGES := \
     NotoSansBrahmi-Regular.ttf \
     NotoSansBuginese-Regular.ttf \
     NotoSansBuhid-Regular.ttf \
+    NotoSans-CondensedLight.ttf \
+    NotoSans-CondensedLightItalic.ttf \
+    NotoSans-Condensed.ttf \
+    NotoSans-CondensedItalic.ttf \
+    NotoSans-CondensedMedium.ttf \
+    NotoSans-CondensedMediumItalic.ttf \
+    NotoSans-CondensedBold.ttf \
+    NotoSans-CondensedBoldItalic.ttf \
     NotoSansCanadianAboriginal-Regular.ttf \
     NotoSansCarian-Regular.ttf \
     NotoSansChakma-Regular.otf \
