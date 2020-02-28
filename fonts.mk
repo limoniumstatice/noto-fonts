@@ -22,6 +22,18 @@ PRODUCT_PACKAGES := \
     NotoNaskhArabic-Regular.ttf \
     NotoNaskhArabicUI-Bold.ttf \
     NotoNaskhArabicUI-Regular.ttf \
+    NotoSans-Thin.ttf \
+    NotoSans-ThinItalic.ttf \
+    NotoSans-Light.ttf \
+    NotoSans-LightItalic.ttf \
+    NotoSans-Regular.ttf \
+    NotoSans-Italic.ttf \
+    NotoSans-Medium.ttf \
+    NotoSans-MediumItalic.ttf \
+    NotoSans-Black.ttf \
+    NotoSans-BlackItalic.ttf \
+    NotoSans-Bold.ttf \
+    NotoSans-BoldItalic.ttf \
     NotoSansAdlam-Regular.ttf \
     NotoSansAhom-Regular.otf \
     NotoSansAnatolianHieroglyphs-Regular.otf \
