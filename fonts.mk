@@ -49,7 +49,6 @@ PRODUCT_PACKAGES := \
     NotoSansCham-Bold.ttf \
     NotoSansCham-Regular.ttf \
     NotoSansCherokee-Regular.ttf \
-    NotoSansCJK-Regular.ttc \
     NotoSansCoptic-Regular.ttf \
     NotoSansCuneiform-Regular.ttf \
     NotoSansCypriot-Regular.ttf \
@@ -85,6 +84,7 @@ PRODUCT_PACKAGES := \
     NotoSansInscriptionalPahlavi-Regular.ttf \
     NotoSansInscriptionalParthian-Regular.ttf \
     NotoSansJavanese-Regular.ttf \
+    NotoSansJP-Regular.otf \
     NotoSansKaithi-Regular.ttf \
     NotoSansKannada-Bold.ttf \
     NotoSansKannada-Regular.ttf \
@@ -95,6 +95,7 @@ PRODUCT_PACKAGES := \
     NotoSansKhmer-VF.ttf \
     NotoSansKhmerUI-Bold.ttf \
     NotoSansKhmerUI-Regular.ttf \
+    NotoSansKR-Regular.otf \
     NotoSansLao-Bold.ttf \
     NotoSansLao-Regular.ttf \
     NotoSansLaoUI-Bold.ttf \
@@ -154,6 +155,7 @@ PRODUCT_PACKAGES := \
     NotoSansRunic-Regular.ttf \
     NotoSansSamaritan-Regular.ttf \
     NotoSansSaurashtra-Regular.ttf \
+    NotoSansSC-Regular.otf \
     NotoSansSharada-Regular.otf \
     NotoSansShavian-Regular.ttf \
     NotoSansSinhala-Bold.otf \
@@ -181,6 +183,7 @@ PRODUCT_PACKAGES := \
     NotoSansTamilUI-Bold.otf \
     NotoSansTamilUI-Medium.otf \
     NotoSansTamilUI-Regular.otf \
+    NotoSansTC-Regular.otf \
     NotoSansTelugu-Bold.ttf \
     NotoSansTelugu-Regular.ttf \
     NotoSansTeluguUI-Bold.ttf \
@@ -205,7 +208,6 @@ PRODUCT_PACKAGES := \
     NotoSerifArmenian-Regular.otf \
     NotoSerifBengali-Bold.ttf \
     NotoSerifBengali-Regular.ttf \
-    NotoSerifCJK-Regular.ttc \
     NotoSerifDevanagari-Bold.ttf \
     NotoSerifDevanagari-Regular.ttf \
     NotoSerifEthiopic-Bold.otf \
@@ -218,20 +220,24 @@ PRODUCT_PACKAGES := \
     NotoSerifGurmukhi-Regular.otf \
     NotoSerifHebrew-Bold.ttf \
     NotoSerifHebrew-Regular.ttf \
+    NotoSerifJP-Regular.otf \
     NotoSerifKannada-Bold.ttf \
     NotoSerifKannada-Regular.ttf \
     NotoSerifKhmer-Bold.otf \
     NotoSerifKhmer-Regular.otf \
+    NotoSerifKR-Regular.otf \
     NotoSerifLao-Bold.ttf \
     NotoSerifLao-Regular.ttf \
     NotoSerifMalayalam-Bold.ttf \
     NotoSerifMalayalam-Regular.ttf \
     NotoSerifMyanmar-Bold.otf \
     NotoSerifMyanmar-Regular.otf \
+    NotoSerifSC-Regular.otf \
     NotoSerifSinhala-Bold.otf \
     NotoSerifSinhala-Regular.otf \
     NotoSerifTamil-Bold.otf \
     NotoSerifTamil-Regular.otf \
+    NotoSerifTC-Regular.otf \
     NotoSerifTelugu-Bold.ttf \
     NotoSerifTelugu-Regular.ttf \
     NotoSerifThai-Bold.ttf \
