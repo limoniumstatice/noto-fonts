@@ -41,7 +41,10 @@ ifneq ($(MINIMAL_FONT_FOOTPRINT),true)
 LOCAL_PATH := $(NOTO_DIR)/cjk
 
 font_src_files := \
-    NotoSansCJK-Regular.ttc
+    NotoSansJP-Regular.otf \
+    NotoSansKR-Regular.otf \
+    NotoSansSC-Regular.otf \
+    NotoSansTC-Regular.otf
 
 $(foreach f, $(font_src_files), $(call build-one-font-module, $(f)))
 font_src_files :=
@@ -56,7 +59,10 @@ ifneq ($(MINIMAL_FONT_FOOTPRINT),true)
 LOCAL_PATH := $(NOTO_DIR)/emoji
 
 font_src_files := \
-    NotoColorEmoji.ttf
+    NotoSerifJP-Regular.otf \
+    NotoSerifKR-Regular.otf \
+    NotoSerifSC-Regular.otf \
+    NotoSerifTC-Regular.otf
 
 $(foreach f, $(font_src_files), $(call build-one-font-module, $(f)))
 font_src_files :=

@@ -72,6 +72,7 @@ PRODUCT_PACKAGES := \
     NotoSansInscriptionalPahlavi-Regular.ttf \
     NotoSansInscriptionalParthian-Regular.ttf \
     NotoSansJavanese-Regular.ttf \
+    NotoSansJP-Regular.otf \
     NotoSansKaithi-Regular.ttf \
     NotoSansKannada-Regular.ttf \
     NotoSansKannada-Bold.ttf \
@@ -82,6 +83,7 @@ PRODUCT_PACKAGES := \
     NotoSansKhmer-VF.ttf \
     NotoSansKhmerUI-Regular.ttf \
     NotoSansKhmerUI-Bold.ttf \
+    NotoSansKR-Regular.otf \
     NotoSansLao-Regular.ttf \
     NotoSansLao-Bold.ttf \
     NotoSansLaoUI-Regular.ttf \
@@ -122,6 +124,7 @@ PRODUCT_PACKAGES := \
     NotoSansRunic-Regular.ttf \
     NotoSansSamaritan-Regular.ttf \
     NotoSansSaurashtra-Regular.ttf \
+    NotoSansSC-Regular.otf \
     NotoSansShavian-Regular.ttf \
     NotoSansSinhala-Regular.ttf \
     NotoSansSinhala-Bold.ttf \
@@ -141,6 +144,7 @@ PRODUCT_PACKAGES := \
     NotoSansTamil-Bold.ttf \
     NotoSansTamilUI-Regular.ttf \
     NotoSansTamilUI-Bold.ttf \
+    NotoSansTC-Regular.otf \
     NotoSansTelugu-Regular.ttf \
     NotoSansTelugu-Bold.ttf \
     NotoSansTeluguUI-Regular.ttf \
@@ -160,4 +164,8 @@ PRODUCT_PACKAGES := \
     NotoSerif-Regular.ttf \
     NotoSerif-Bold.ttf \
     NotoSerif-Italic.ttf \
-    NotoSerif-BoldItalic.ttf
+    NotoSerif-BoldItalic.ttf \
+    NotoSerifJP-Regular.otf \
+    NotoSerifKR-Regular.otf \
+    NotoSerifSC-Regular.otf \
+    NotoSerifTC-Regular.otf
