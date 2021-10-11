@@ -33,6 +33,106 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "NotoSans-Black.ttf",
+    src: "NotoSans-Black.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-BlackItalic.ttf",
+    src: "NotoSans-BlackItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-Bold.ttf",
+    src: "NotoSans-Bold.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-BoldItalic.ttf",
+    src: "NotoSans-BoldItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-Condensed.ttf",
+    src: "NotoSans-Condensed.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-CondensedBold.ttf",
+    src: "NotoSans-CondensedBold.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-CondensedBoldItalic.ttf",
+    src: "NotoSans-CondensedBoldItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-CondensedItalic.ttf",
+    src: "NotoSans-CondensedItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-CondensedLight.ttf",
+    src: "NotoSans-CondensedLight.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-CondensedLightItalic.ttf",
+    src: "NotoSans-CondensedLightItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-CondensedMedium.ttf",
+    src: "NotoSans-CondensedMedium.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-CondensedMediumItalic.ttf",
+    src: "NotoSans-CondensedMediumItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-Italic.ttf",
+    src: "NotoSans-Italic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-Light.ttf",
+    src: "NotoSans-Light.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-LightItalic.ttf",
+    src: "NotoSans-LightItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-Medium.ttf",
+    src: "NotoSans-Medium.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-MediumItalic.ttf",
+    src: "NotoSans-MediumItalic.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-Regular.ttf",
+    src: "NotoSans-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-Thin.ttf",
+    src: "NotoSans-Thin.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSans-ThinItalic.ttf",
+    src: "NotoSans-ThinItalic.ttf",
+}
+
+prebuilt_font {
     name: "NotoSansAdlam-VF.ttf",
     src: "NotoSansAdlam-VF.ttf",
 }
