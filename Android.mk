@@ -41,7 +41,14 @@ ifneq ($(MINIMAL_FONT_FOOTPRINT),true)
 LOCAL_PATH := $(NOTO_DIR)/cjk
 
 font_src_files := \
-    NotoSansCJK-Regular.ttc
+    NotoSansCJKjp-Regular.otf \
+    NotoSansCJKkr-Regular.otf \
+    NotoSansCJKsc-Regular.otf \
+    NotoSansCJKtc-Regular.otf \
+    NotoSerifCJKjp-Regular.otf \
+    NotoSerifCJKkr-Regular.otf \
+    NotoSerifCJKsc-Regular.otf \
+    NotoSerifCJKtc-Regular.otf
 
 $(foreach f, $(font_src_files), $(call build-one-font-module, $(f)))
 font_src_files :=

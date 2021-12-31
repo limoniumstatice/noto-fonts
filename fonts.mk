@@ -43,6 +43,10 @@ PRODUCT_PACKAGES := \
     NotoSansCham-Bold.ttf \
     NotoSansCherokee-Regular.ttf \
     NotoSansCJK-Regular.ttc \
+    NotoSansCJKjp-Regular.otf \
+    NotoSansCJKkr-Regular.otf \
+    NotoSansCJKsc-Regular.otf \
+    NotoSansCJKtc-Regular.otf \
     NotoSansCoptic-Regular.ttf \
     NotoSansCuneiform-Regular.ttf \
     NotoSansCypriot-Regular.ttf \
@@ -161,4 +165,8 @@ PRODUCT_PACKAGES := \
     NotoSerif-Regular.ttf \
     NotoSerif-Bold.ttf \
     NotoSerif-Italic.ttf \
-    NotoSerif-BoldItalic.ttf
+    NotoSerif-BoldItalic.ttf \
+    NotoSerifCJKjp-Regular.otf \
+    NotoSerifCJKkr-Regular.otf \
+    NotoSerifCJKsc-Regular.otf \
+    NotoSerifCJKtc-Regular.otf
