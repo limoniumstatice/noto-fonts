@@ -56,7 +56,8 @@ ifneq ($(MINIMAL_FONT_FOOTPRINT),true)
 LOCAL_PATH := $(NOTO_DIR)/emoji
 
 font_src_files := \
-    NotoColorEmoji.ttf
+    NotoColorEmoji.ttf \
+    NotoColorEmojiFlags.ttf
 
 $(foreach f, $(font_src_files), $(call build-one-font-module, $(f)))
 font_src_files :=
