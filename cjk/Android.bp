@@ -52,6 +52,45 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "NotoSansJP-Regular.otf",
+    src: "NotoSansCJKjp-Regular.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansKR-Regular.otf",
+    src: "NotoSansCJKkr-Regular.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansSC-Regular.otf",
+    src: "NotoSansCJKsc-Regular.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansTC-Regular.otf",
+    src: "NotoSansCJKtc-Regular.otf",
+}
+
+prebuilt_font {
     name: "NotoSerifCJK-Regular.ttc",
     src: "NotoSerifCJK-Regular.ttc",
+}
+
+prebuilt_font {
+    name: "NotoSerifJP-Regular.otf",
+    src: "NotoSerifCJKjp-Regular.otf",
+}
+prebuilt_font {
+    name: "NotoSerifKR-Regular.otf",
+    src: "NotoSerifCJKkr-Regular.otf",
+}
+
+prebuilt_font {
+    name: "NotoSerifSC-Regular.otf",
+    src: "NotoSerifCJKsc-Regular.otf",
+}
+
+prebuilt_font {
+    name: "NotoSerifTC-Regular.otf",
+    src: "NotoSerifCJKtc-Regular.otf",
 }

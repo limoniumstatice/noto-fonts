@@ -89,6 +89,11 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "NotoSans-Regular.ttf",
+    src: "NotoSans-Regular.ttf",
+}
+
+prebuilt_font {
     name: "NotoSansAdlam-VF.ttf",
     src: "NotoSansAdlam-VF.ttf",
 }
