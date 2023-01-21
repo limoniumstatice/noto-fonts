@@ -28,6 +28,7 @@ PRODUCT_PACKAGES := \
     NotoNaskhArabic-Regular.ttf \
     NotoNaskhArabicUI-Bold.ttf \
     NotoNaskhArabicUI-Regular.ttf \
+    NotoSans-Regular.ttf \
     NotoSansAdlam-VF.ttf \
     NotoSansAhom-Regular.otf \
     NotoSansAnatolianHieroglyphs-Regular.otf \
@@ -79,6 +80,7 @@ PRODUCT_PACKAGES := \
     NotoSansInscriptionalPahlavi-Regular.ttf \
     NotoSansInscriptionalParthian-Regular.ttf \
     NotoSansJavanese-Regular.otf \
+    NotoSansJP-Regular.otf \
     NotoSansKaithi-Regular.ttf \
     NotoSansKannada-VF.ttf \
     NotoSansKannadaUI-VF.ttf \
@@ -88,6 +90,7 @@ PRODUCT_PACKAGES := \
     NotoSansKhmerUI-Bold.ttf \
     NotoSansKhmerUI-Regular.ttf \
     NotoSansKhojki-Regular.otf \
+    NotoSansKR-Regular.otf \
     NotoSansLao-Bold.ttf \
     NotoSansLao-Regular.ttf \
     NotoSansLaoUI-Bold.ttf \
@@ -146,6 +149,7 @@ PRODUCT_PACKAGES := \
     NotoSansRunic-Regular.ttf \
     NotoSansSamaritan-Regular.ttf \
     NotoSansSaurashtra-Regular.ttf \
+    NotoSansSC-Regular.otf \
     NotoSansSharada-Regular.otf \
     NotoSansShavian-Regular.ttf \
     NotoSansSinhala-VF.ttf \
@@ -167,6 +171,7 @@ PRODUCT_PACKAGES := \
     NotoSansTakri-VF.ttf \
     NotoSansTamil-VF.ttf \
     NotoSansTamilUI-VF.ttf \
+    NotoSansTC-Regular.otf \
     NotoSansTelugu-VF.ttf \
     NotoSansTeluguUI-VF.ttf \
     NotoSansThaana-Bold.ttf \
@@ -196,17 +201,21 @@ PRODUCT_PACKAGES := \
     NotoSerifGurmukhi-VF.ttf \
     NotoSerifHebrew-Bold.ttf \
     NotoSerifHebrew-Regular.ttf \
+    NotoSerifJP-Regular.otf \
     NotoSerifKannada-VF.ttf \
     NotoSerifKhmer-Bold.otf \
     NotoSerifKhmer-Regular.otf \
+    NotoSerifKR-Regular.otf \
     NotoSerifLao-Bold.ttf \
     NotoSerifLao-Regular.ttf \
     NotoSerifMalayalam-VF.ttf \
     NotoSerifMyanmar-Bold.otf \
     NotoSerifMyanmar-Regular.otf \
     NotoSerifNyiakengPuachueHmong-VF.ttf \
+    NotoSerifSC-Regular.otf \
     NotoSerifSinhala-VF.ttf \
     NotoSerifTamil-VF.ttf \
+    NotoSerifTC-Regular.otf \
     NotoSerifTelugu-VF.ttf \
     NotoSerifThai-Bold.ttf \
     NotoSerifThai-Regular.ttf \
